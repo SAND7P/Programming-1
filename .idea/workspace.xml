@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9427091b-8479-424b-b24c-bfdea5a100c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK2/task1profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK2/task2grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK2/task3budget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK2/task4billing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK2/task5scholarship.py" afterDir="false" />
-    </list>
+    <list default="true" id="9427091b-8479-424b-b24c-bfdea5a100c6" name="Changes" comment="WEEK 2 lab tasks &#10;we learned basics coding to carry out specific tasks using strings int floats, if else statement" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,61 +22,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8293195458144416" />
-      <entry key="MS500" value="1.9632618940201478" />
-      <entry key="S2" value="1.9906861581012825" />
-      <entry key="S5" value="1.9962640014981947" />
-      <entry key="S10" value="1.998130326715836" />
-      <entry key="S30" value="2.01363435866359" />
-      <entry key="S60" value="2.485534792950214" />
-      <entry key="M2" value="5.812714054652991" />
-      <entry key="M5" value="20.561128298367784" />
-      <entry key="M10" value="43.74680924755907" />
-      <entry key="M15" value="64.52925722287439" />
-      <entry key="M30" value="116.77877492246178" />
-      <entry key="H1" value="184.71306981245965" />
-      <entry key="H2" value="248.15199364089762" />
-      <entry key="H4" value="293.43248781338855" />
-      <entry key="D1" value="341.1344152897225" />
-      <entry key="W1" value="350.4179558611233" />
+      <entry key="MS100" value="1.0132310009410426" />
+      <entry key="MS500" value="1.4960629405405674" />
+      <entry key="S2" value="2.8136293554789695" />
+      <entry key="S5" value="5.193500055543164" />
+      <entry key="S10" value="9.773903796996585" />
+      <entry key="S30" value="22.827495333550722" />
+      <entry key="S60" value="31.19743295842024" />
+      <entry key="M2" value="39.320367244713935" />
+      <entry key="M5" value="56.849127676277185" />
+      <entry key="M10" value="81.1383526052739" />
+      <entry key="M15" value="102.41585296066741" />
+      <entry key="M30" value="155.41660018481318" />
+      <entry key="H1" value="224.18342018873818" />
+      <entry key="H2" value="288.4905756464648" />
+      <entry key="H4" value="334.4601211761154" />
+      <entry key="D1" value="382.94746555646896" />
+      <entry key="W1" value="392.39055653643345" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.823399838691498E-194" />
-      <entry key="S2" value="4.686388796892645E-49" />
-      <entry key="S5" value="4.659457196010001E-20" />
-      <entry key="S10" value="2.1585778150354604E-10" />
-      <entry key="S30" value="6.027069756411818E-4" />
-      <entry key="S60" value="0.026177083883433223" />
-      <entry key="M2" value="0.19778820693831092" />
-      <entry key="M5" value="0.8194793745309379" />
-      <entry key="M10" value="1.706408076839087" />
-      <entry key="M15" value="2.507031160883791" />
-      <entry key="M30" value="4.470932709616757" />
-      <entry key="H1" value="6.8237950641824705" />
-      <entry key="H2" value="8.863284189022023" />
-      <entry key="H4" value="10.255599383133541" />
-      <entry key="D1" value="11.680440843744622" />
-      <entry key="W1" value="11.95357635804765" />
+      <entry key="MS500" value="6.9222742918965135E-233" />
+      <entry key="S2" value="9.121414697340177E-59" />
+      <entry key="S5" value="6.081698418698311E-24" />
+      <entry key="S10" value="2.4661102383490286E-12" />
+      <entry key="S30" value="1.3574415662956753E-4" />
+      <entry key="S60" value="0.012423064140806241" />
+      <entry key="M2" value="0.13625552604763244" />
+      <entry key="M5" value="0.7059915773683538" />
+      <entry key="M10" value="1.5838485244978606" />
+      <entry key="M15" value="2.385504441698868" />
+      <entry key="M30" value="4.36122388861851" />
+      <entry key="H1" value="6.739553105689535" />
+      <entry key="H2" value="8.80840422940322" />
+      <entry key="H4" value="10.22379961185259" />
+      <entry key="D1" value="11.674396728602424" />
+      <entry key="W1" value="11.952692526198701" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0996285529781624" />
-      <entry key="MS500" value="1.6997472704120302" />
-      <entry key="S2" value="1.9159854190251229" />
-      <entry key="S5" value="1.9656056227925256" />
-      <entry key="S10" value="1.9826685574042744" />
-      <entry key="S30" value="2.0087160950198273" />
-      <entry key="S60" value="2.505402675254989" />
-      <entry key="M2" value="5.996782107721401" />
-      <entry key="M5" value="21.341597001143793" />
-      <entry key="M10" value="45.38689383523352" />
-      <entry key="M15" value="66.9583365072784" />
-      <entry key="M30" value="121.16776611346776" />
-      <entry key="H1" value="191.46965302155496" />
-      <entry key="H2" value="256.9700809484571" />
-      <entry key="H4" value="303.66148101826246" />
-      <entry key="D1" value="352.80973210930074" />
-      <entry key="W1" value="362.370781239345" />
+      <entry key="MS100" value="0.951953587248408" />
+      <entry key="MS500" value="1.4771907865041554" />
+      <entry key="S2" value="2.8025063259612217" />
+      <entry key="S5" value="5.185270231899347" />
+      <entry key="S10" value="9.766293061493712" />
+      <entry key="S30" value="22.819750929768542" />
+      <entry key="S60" value="31.20192185305562" />
+      <entry key="M2" value="39.444077658942" />
+      <entry key="M5" value="57.520083365413484" />
+      <entry key="M10" value="82.65989148593476" />
+      <entry key="M15" value="104.7266760783683" />
+      <entry key="M30" value="159.69763495861432" />
+      <entry key="H1" value="230.85646096642384" />
+      <entry key="H2" value="297.2539974621" />
+      <entry key="H4" value="344.6573643481301" />
+      <entry key="D1" value="394.61673544289056" />
+      <entry key="W1" value="404.34249735674706" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -178,12 +168,25 @@
       <workItem from="1785196589572" duration="1000" />
       <workItem from="1785216599086" duration="2545000" />
       <workItem from="1785219164091" duration="19000" />
-      <workItem from="1785719329730" duration="936000" />
+      <workItem from="1785719329730" duration="1338000" />
     </task>
+    <task id="LOCAL-00001" summary="WEEK 2 lab tasks &#10;we learned basics coding to carry out specific tasks using strings int floats, if else statement">
+      <option name="closed" value="true" />
+      <created>1785720471090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785720471090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="WEEK 2 lab tasks &#10;we learned basics coding to carry out specific tasks using strings int floats, if else statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="WEEK 2 lab tasks &#10;we learned basics coding to carry out specific tasks using strings int floats, if else statement" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/programming1$task4billing.coverage" NAME="task4billing Coverage Results" MODIFIED="1785217528413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WEEK2" />
