@@ -1,0 +1,16 @@
+Student_name=input("Enter Full Name: ")
+Age=int(input("Enter Age: "))
+GPA=float(input("Enter GPA: "))
+Domestic=input("Domestic Student (YES/NO): ")
+Annual_Family_Income=float(input("Enter Annual Family Income: "))
+print("--------scholarship result--------")
+print("student name:",Student_name)
+print("Age:",Age)
+print("GPA:",GPA)
+print("Domestic Student(YES/NO):",Domestic)
+print("Annual Income:",Annual_Family_Income)
+if GPA>=8.5 and Annual_Family_Income<40000:
+    print("Congratulations! You are qualified for scholarship ")
+else:
+    print("Sorry!!! youre not eligible for scholarship ")
+    print("--------------------------")
