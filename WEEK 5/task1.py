@@ -1,0 +1,7 @@
+name=input("Enter your name: ")
+print("-----------------------")
+print("Uppercase : ", name.upper())
+print("Lowercase : ", name.lower())
+print("First three letters: ", name[0:3])
+print("Last two letters: ", name[-2:])
+print("-----------------------")
